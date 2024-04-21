@@ -7,6 +7,7 @@ As imagens foram obtidas pelo google.
 
 ### Demonstração: 
 Essa é a imagem da página criada.
+
 ![image](https://github.com/anabmaia76/Copia-do-aiqfome/assets/167694733/5cf37265-730e-4272-9a6a-e0480254aff8)
 
 
