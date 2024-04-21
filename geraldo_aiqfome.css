@@ -1,0 +1,94 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.background {
+    background-image: url("./imagens/aiqfome_imagem.png");
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.4;
+    background-size: cover;
+    top: 0;
+    position: fixed;
+    
+    
+}
+   
+.titulo{
+    color: #0097A7;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    padding: none;
+    
+}
+
+.subtitulo {
+font-family: "Montserrat", sans-serif;
+ font-size: 18px;
+ font-weight: 300;
+ color: black;
+
+ 
+}
+
+input {
+    font-family: "Montserrat", sans-serif ;
+    color: #CCCCCC;
+    display: block;
+    margin: 10px;
+    border: none;
+    border-bottom: 2px solid #CCCCCC;
+    width: 88%;
+    font-size: 18px;
+    margin-left: 25px;
+
+}
+
+button {
+    background-color: #6A1B9A;
+    border: none;
+    font-family: "Montserrat", sans-serif;
+    padding:8px 12px;
+    width: 90%;
+    margin-right: 10px;
+    
+
+}
+
+.senha {
+    font-family: "Montserrat", sans-serif;
+}
+
+a{
+    color:  #0097A7;
+    text-decoration: none;
+}
+
+.borda-pequena { 
+    
+    border: 2px solid black;
+    width: 40%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.borda-grande {
+    justify-content: center;
+    display: flex;
+}
+
+.imagem {
+    width: 250px;
+    height: auto;
+
+}
+
+.imagem2{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
