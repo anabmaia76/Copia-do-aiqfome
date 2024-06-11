@@ -12,7 +12,7 @@ Essa é a imagem da página criada.
 
 
 ### Ferramentas utilizadas: :computer:
-- Editor de código: VSCode:
+- Editor de código: VSCode
 - Linguagens: HTML e CSS
 - Armazenamento: Github
 
